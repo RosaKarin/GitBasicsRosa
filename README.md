@@ -1,2 +1,2 @@
-# GitBasicsRosa
-Hallo, bedankt voor het bezoek aan deze prachtige website
+# Hallo allemaal, wat fijn dat je er bent
+Ben je voor het eerst hier of ben je al bekend?
